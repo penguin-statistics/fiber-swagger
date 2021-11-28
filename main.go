@@ -9,7 +9,7 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/filesystem"
 	"github.com/gofiber/fiber/v2/utils"
-	swaggerFiles "github.com/swaggo/files"
+	swaggerFiles "github.com/penguin-statistics/swaggo-files"
 	"github.com/swaggo/swag"
 )
 
