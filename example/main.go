@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	fiberSwagger "github.com/penguin-statistics/fiber-swagger"
-	_ "github.com/penguin-statistics/fiber-swagger/example/docs"
+	fiberSwagger "github.com/penguin-statistics/fiber-swagger/v3"
+	_ "github.com/penguin-statistics/fiber-swagger/v3/example/docs"
 )
 
 // @title Fiber Example API

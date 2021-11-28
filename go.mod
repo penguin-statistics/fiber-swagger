@@ -1,4 +1,4 @@
-module github.com/penguin-statistics/fiber-swagger
+module github.com/penguin-statistics/fiber-swagger/v3
 
 go 1.14
 

@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/gofiber/fiber/v2"
-	_ "github.com/penguin-statistics/fiber-swagger/example/docs"
+	_ "github.com/penguin-statistics/fiber-swagger/v3/example/docs"
 )
 
 func Test_Swagger(t *testing.T) {
