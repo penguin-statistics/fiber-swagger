@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
-	_ "github.com/arsmn/fiber-swagger/v2/example/docs"
 	"github.com/gofiber/fiber/v2"
+	_ "github.com/penguin-statistics/fiber-swagger/example/docs"
 )
 
 func Test_Swagger(t *testing.T) {
